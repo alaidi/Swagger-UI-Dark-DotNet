@@ -15,3 +15,5 @@ add css file to the project's `wwwroot` folder and specify the relative path in 
         options.InjectStylesheet("/assets/swagger_ui_dark.css");
     });
 ```
+
+![Alt text](dark.png?raw=true "swagger dark theme ")
